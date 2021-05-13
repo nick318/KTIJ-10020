@@ -1,7 +1,8 @@
 package com.jetbrains
 
-import org.junit.Assert.assertEquals
-import org.junit.Test
+import kotlin.test.Test
+import kotlin.test.assertEquals
+
 
 class Test {
     @Test
